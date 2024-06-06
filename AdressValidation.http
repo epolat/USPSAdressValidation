@@ -1,0 +1,6 @@
+@AdressValidation_HostAddress = http://localhost:5227
+
+GET {{AdressValidation_HostAddress}}/addressvalidation/
+Accept: application/json
+
+###
